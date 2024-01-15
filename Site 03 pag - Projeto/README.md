@@ -10,7 +10,7 @@
   <li>HTML5: Empregando links externos(vídeo inputado do YouTube)</li>
   <li>HTML5: Utilização de Fav icon nas três páginas;</li>
 </ul>
-<p><a href="https://www.youtube.com/watch?v=6PUHba2hqU4" target="_blank">CLIQUE AQUI</a> para acessar o vídeo do projeto em execução</p>
+<p><a href="https://www.youtube.com/watch?v=6PUHba2hqU4" target="_self">CLIQUE AQUI</a> para acessar o vídeo do projeto em execução</p>
 <hr>
 <h3><strong>DISCLAIMER</strong></h3>
 <p>Este repositório é apenas um compartilhamento do meu desenvolvimento pessoal na área.<br>O <em>Portfólio</em> estarei criando posteriormente para apresentar meus projetos mais estruturados.</p>
