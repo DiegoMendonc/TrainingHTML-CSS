@@ -1,6 +1,6 @@
 <hr>
 <h1>001 - Projeto Básico - HTML5 | CSS3 - 3 páginas &#x1F60E;</h1>
-<p>Olá à todos! Este projeto baseia-se em um site simples com três páginas utilizandoi apenas HTML5 e CSS3.</p>
+<p>Olá à todos! Este projeto baseia-se em um site simples com três páginas utilizando apenas <em>HTML5 e CSS3</em>.</p>
 <hr>
 <h2>Pontos Técnicos abordados na criação:</h2>
 <ul>
