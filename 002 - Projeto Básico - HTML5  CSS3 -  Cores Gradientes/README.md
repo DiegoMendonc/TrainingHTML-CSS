@@ -1,6 +1,6 @@
 <hr>
 <h1>002 - Projeto Básico - HTML5 | CSS3 -  Cores Gradientes &#x1F60E;</h1>
-<p>Olá à todos! Este projeto baseia-se em um site simples com três páginas utilizando apenas <em>HTML5 e CSS3</em>.</p>
+<p>Olá à todos! Este projeto baseia-se em um site simples e trabalhando com cores gradientes, utilizando apenas <em>HTML5 e CSS3</em>.</p>
 <hr>
 <h2>Pontos Técnicos abordados na criação:</h2>
 <ul>
