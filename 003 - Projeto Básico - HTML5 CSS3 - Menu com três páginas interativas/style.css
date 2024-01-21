@@ -1,0 +1,244 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Salsa&display=swap');
+
+body{
+    background-image: linear-gradient(to right, rgb(125, 125, 219), rgb(64, 64, 229));
+    text-align: center;
+}
+.corpomenu{
+    background-image: linear-gradient(to right, rgb(125, 125, 219), rgb(64, 64, 229));
+    display: grid;
+    border-style: solid;
+    border-color: black;
+    padding: 3%;
+    border-radius: 15%;
+    text-align: center;
+    width: auto;
+    height: auto;
+}
+.titulomenu{
+    background-image: linear-gradient(to top, rgb(103, 59, 225), rgb(67, 32, 124));
+    text-transform: uppercase;
+    font-size: 3em;
+    font-family: "Salsa", cursive;
+    font-weight: 600;
+    font-style: normal;
+    text-align: center;
+    text-shadow: 2px 2px 10px white;
+    border-style: solid;
+    border: 3px 2px 10px black;
+}
+.paragrafomenu{
+    font-family: "Salsa", cursive;
+    text-shadow: 2px 2px 10px white;
+}
+.seletormenu{
+    background-image: linear-gradient(to top, rgb(103, 59, 225), rgb(67, 32, 124));
+    color: black;
+    font-family: "Salsa", cursive;
+    font-weight: bolder;
+    font-style: italic;
+    text-align: center;
+    display: block;
+    padding: 2%;
+    text-transform: uppercase;
+    text-decoration: none;
+    border-style: solid;
+    border: 2px 2px 3px black;
+}
+.seletormenu:hover{
+    color: antiquewhite;
+    background-image: linear-gradient(to bottom, rgb(80, 80, 166), rgb(31, 31, 89));
+    text-decoration: none;
+}
+
+.seletormenu1{
+    background-image: linear-gradient(to top, rgb(103, 59, 225), rgb(67, 32, 124));
+    color: black;
+    font-family: "Salsa", cursive;
+    font-weight: bolder;
+    font-style: italic;
+    text-align: center;
+    display: block;
+    padding: 2%;
+    text-transform: uppercase;
+    text-decoration: none;
+    border-style: solid;
+    border: 2px 2px 3px black;
+}
+.seletormenu1:hover{
+    color: antiquewhite;
+    background-image: linear-gradient(to bottom, rgb(80, 80, 166), rgb(31, 31, 89));
+    text-decoration: none;
+}
+.seletormenu2{
+    background-image: linear-gradient(to top, rgb(103, 59, 225), rgb(67, 32, 124));
+    color: black;
+    font-family: "Salsa", cursive;
+    font-weight: bolder;
+    font-style: italic;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    padding: 2%;
+    text-transform: uppercase;
+    border-style: solid;
+    border: 2px 2px 3px black;
+}
+.seletormenu2:hover{
+    color: antiquewhite;
+    background-image: linear-gradient(to bottom, rgb(80, 80, 166), rgb(31, 31, 89));
+    text-decoration: none;
+}
+.credito{
+    text-align: left;
+    font-size: small;
+    font-family: "Salsa", cursive;
+}
+.credito:hover{
+    color: blue;
+    text-decoration: none;
+}
+
+/* MENU ^ */
+header{
+    font-family: "Salsa",cursive;
+    text-shadow: 2px 2px 15px white;
+    background-image: linear-gradient(to bottom, rgb(125, 125, 219), rgb(64, 64, 229));
+    width: auto;
+    height: auto;
+    border-radius: 10px 3px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(49, 0, 128);
+    padding: 1px;
+    outline: solid 2px rgba(2, 2, 84, 0.285);
+    margin: 1px;
+    text-align: center;
+    display: block;
+
+}
+
+main{
+    font-family: 'Times New Roman', Times, serif;
+    width: auto;
+    height: auto;
+    border-radius: 10px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: rgb(2, 2, 28);
+    padding: 1px;
+    margin: 1px;
+    text-align: center; 
+    display: block;
+}
+section{
+    width: auto;
+    height: auto;
+    border-radius: 5px 1px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: rgb(18, 18, 103);
+    padding: 1px;
+    margin: 1px;
+    text-align: center; 
+    display: block;
+}
+.article1{
+    background-color: rgb(75, 75, 216);
+    width: auto;
+    height: auto;
+    border-width: 2px;
+    border-style: solid;
+    border-color: rgb(2, 2, 28);
+    padding: 1px;
+    margin: 1px;
+    text-align: justify; 
+    display: inline-block;
+}
+.article2{
+    background-color: rgb(75, 75, 216);
+    width: auto;
+    height: auto;
+    border-width: 2px;
+    border-style: groove;
+    border-color: rgb(2, 2, 28);
+    padding: 1px;
+    margin: 1px;
+    text-align: justify; 
+    display: inline-block;
+}
+.aside1{
+    background-color: rgba(66, 27, 223, 0.641);
+    width: auto;
+    height: auto;
+    border-width: 2px;
+    border-style: solid;
+    border-color: rgb(2, 2, 28);
+    padding: 1px;
+    margin: auto;
+    text-align: center;
+    display: inline-block;
+}
+
+.aside2{
+    color: whitesmoke;
+    background-color: rgba(39, 29, 81, 0.505);
+    text-shadow: 2px 2px 4px black;
+    font-size: small;
+    border-radius: 10px 30px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: rgb(100, 100, 207);
+    padding: 1px;
+    margin: auto;
+    text-align: justify; 
+    display: flex;
+    flex-direction: column;
+    width: auto;
+    height: auto;
+}
+
+footer{
+    width: auto;
+    height: auto;
+    background-color: rgba(125, 55, 231, 0.646);
+    text-shadow: 3px 4px 8px white;
+    font-family: "Salsa", cursive;
+    border-radius: 30px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: rgb(2, 2, 28);
+    padding: 5px;
+    margin: auto;
+    text-align: center; 
+    display: block;
+    
+}
+.pnav01{
+    background-color: rgb(78, 18, 162);
+    color: whitesmoke;
+    width: auto;
+    height: auto;
+    border-radius: 10px 30px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(2, 2, 28);
+    padding: 1px;
+    margin: 4px 2px;
+    text-align: center; 
+    display: inline-block;
+}
+
+/* Page 01 ^ */
+
+.main03{
+    background-image: linear-gradient(to bottom, rgb(93, 93, 214), rgb(6, 6, 56));
+    color: rgb(255, 255, 255);
+    text-shadow: 2px 5px 5px black;
+    font-family: "Salsa", cursive;
+}
+.footer03{
+    background-image: linear-gradient(to bottom, rgb(13, 13, 61), rgb(53, 53, 189));
+    font-family: "Salsa", cursive;
+}
