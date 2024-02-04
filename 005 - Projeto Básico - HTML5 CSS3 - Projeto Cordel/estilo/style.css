@@ -21,9 +21,15 @@ html, body{
 }
 
 header{
-    background-color: black;
+    background-image: url(../imagens/poema-header.jpg);
+    background-position: center center;
+    background-size: cover;
     color: white;
     text-align: center;
+    display: block;
+    box-shadow: inset 6px 6px 13px 0px  rgba(0, 0, 0, 0.415);
+    border-radius: 10px;
+    text-shadow: 1px 1px 5px black;
 }
 header > h1{
     padding-top: 50px;
@@ -42,7 +48,13 @@ header a, footer a{
     font-weight: bolder;
 }
 header a:hover, footer a:hover{
-    text-decoration: underline;
+    text-decoration: double;
+    background-color: white;
+    color: black;
+    display: inline-block;
+    border-radius: 15px;
+    padding: 5px;
+    transition-duration: 0.5s;
 }
 
 section{
@@ -59,8 +71,17 @@ section > p{
 }
 
 section.normal{
-    background-color: white;
-    color: black
+    display: block;
+    border-radius: 5px;
+    background-image: url(../imagens/imagem-branco.jpg);
+    background-size: cover;
+    background-position: right center;
+}
+
+section.normal > p:hover{
+    color: white;
+    text-shadow: 2px 2px 5px black;
+    transition-duration: 2s;
 }
 
 section.imagem{
