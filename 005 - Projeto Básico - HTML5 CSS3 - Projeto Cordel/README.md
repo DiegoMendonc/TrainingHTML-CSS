@@ -1,12 +1,15 @@
 <hr>
-<h1>004 - Projeto Básico - HTML5 | CSS3 -  Projeto Android &#x1F60E;</h1>
-<p>Olá à todos! Este projeto baseia-se em um site simples, baseando em uma página tradiocional web, contendo cabeçalho, navegação, corpo e rodapé, utilizando apenas <em>HTML5 e CSS3</em>.</p>
+<h1>005 - Projeto Básico - HTML5 | CSS3 -  Projeto Cordel &#x1F60E;</h1>
+<p>Olá à todos! Este projeto baseia-se em um site simples, baseando em uma página de poemas com estilo cordel, contendo cabeçalho, imagens em estilo parallax, com corpo e rodapé, utilizando apenas <em>HTML5 e CSS3</em>.</p>
 <hr>
 <h2>Pontos Técnicos abordados na criação:</h2>
 <ul>
   <li>CSS3: Aplicabilidade da Responsividade;</li>
+  <li>CSS3: Separação de class e ids para personalização específica</li>
+  <li>CSS3: Importação de fontes externas e uso de variáveis</li>
+  <li>CSS3: Manuseamento de imagens para efeito parallax</li>
   <li>CSS3: Utilização de animações com :hover</li>
-  <li>CSS3: Utilizado o conceito de estruturação do esqueleto do website: (header, main, section, article, aside e footer);</li>
+  <li>CSS3: Utilizado o conceito de estruturação do esqueleto do site do poema;</li>
   <li>CSS3: Utilizado o conceito de bordas e blocos visuais em CSS3, aplicando cores e alteração de dimensões;
   <li>CSS3: Utilizado externamente para padronizar a cor, formatação e espaçamento das páginas;</li>
   <li>CSS3: Utilizado cores sólidas e cores gradientes para efeito em background;</li>
