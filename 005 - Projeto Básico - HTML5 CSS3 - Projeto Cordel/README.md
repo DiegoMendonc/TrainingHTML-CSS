@@ -19,7 +19,7 @@
   <li>HTML5: Empregando o uso de formatação textual;</li>
 </ul>
 <hr>
-<p><a href="https://www.youtube.com/watch?v=8t-P1yxSy-s](https://youtu.be/EsQz0whCDfI">CLIQUE AQUI</a> para acessar o vídeo do projeto em execução</p>
+<p><a href="https://youtu.be/EsQz0whCDfI?si=g_Aeb8g1KS04yj2Z">CLIQUE AQUI</a> para acessar o vídeo do projeto em execução</p>
 <p><a href="https://diegomendonc.github.io/TrainingHTML-CSS/004%20-%20Projeto%20B%C3%A1sico%20-%20HTML5%20CSS3%20-%20Projeto%20Android/">CLIQUE AQUI</a> para acessar o projeto via web</p>
 <hr>
 <h3><strong>DISCLAIMER</strong></h3>
