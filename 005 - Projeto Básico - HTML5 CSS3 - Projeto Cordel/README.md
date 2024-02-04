@@ -1,6 +1,6 @@
 <hr>
 <h1>005 - Projeto Básico - HTML5 | CSS3 -  Projeto Cordel &#x1F60E;</h1>
-<p>Olá à todos! Este projeto baseia-se em um site simples, baseando em uma página tradiocional web, contendo cabeçalho, navegação, corpo e rodapé, utilizando apenas <em>HTML5 e CSS3</em>.</p>
+<p>Olá à todos! Este projeto baseia-se em um site simples, baseando em uma página estilo cordel, contendo cabeçalho, transição de imagens com efeito parallax, com corpo e rodapé, utilizando apenas <em>HTML5 e CSS3</em>.</p>
 <hr>
 <h2>Pontos Técnicos abordados na criação:</h2>
 <ul>
