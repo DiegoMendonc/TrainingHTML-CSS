@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About me</title>
+    <style>
+
+        *{
+            padding: 0px;
+            margin: 0px;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        }
+
+        body, html{
+            background-image: linear-gradient(to right, rgb(9, 4, 141), rgb(46, 40, 232));
+            color: white;
+            height: 100vh;
+            width: 100vw;
+        }
+
+        div.abertura{
+            text-align: center;
+            border: 2px solid rgba(0, 0, 0, 0.542);
+            background-color: rgba(94, 78, 242, 0.869);
+            margin: auto;
+            border-radius: 15px;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            height: 420px;
+            width: 450px;
+            box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+        }
+        img.foto-eu{
+            border-radius: 50%;
+            top: 50%;
+            width: 120px;
+            transform: translateY(-65px);
+        }
+
+        img.icon:hover{
+            border: 1px solid rgba(255, 255, 255, 0.62);
+            transform: translate(-3px, -3px);
+            box-shadow: 2px 3px 5px rgba(0, 0, 0, 0.624);
+            transition: transform 0.5s, border 1s;
+            
+        }
+
+        div.titulo-eu{
+            margin-top: -60px;
+        }
+
+        h1.name{
+            margin: 5px;
+            padding: 2px;
+            font-weight: 900;
+        }
+
+        p.desc{
+            margin: 2px;
+            padding: 2px;
+            font-weight: 100;
+            text-align: center;
+        }
+
+        section.social{
+            text-align: right;
+        }
+        
+        section.social img{
+                width: 50px;
+                height: 50px;
+                margin: 10px;
+                border-radius: 50%;
+                box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.463);
+                box-sizing: border-box;
+        }
+        
+        
+        section.social img:hover{
+                border: 2px solid rgba(255, 255, 255, 0.62);
+                transform: translate(-3px, -3px);
+                box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.624);
+                transition: transform 0.5s, border 1s;
+        }
+            
+    </style>
+</head>
+<body>
+    
+    <main>
+            <section>
+                <div class="abertura">
+                    <img class="foto-eu" src="imagens/about-me.jpg" alt="Me">
+                    <div class="titulo-eu">
+                        <h1 class="name">
+                            Diego Mendonça
+                        </h1>
+                        <p class="desc">
+                            <br>Aspirante à desenvolvedor, paixão pelo aprendizado e tecnologia <br><br>
+                            Estou mergulhando sobre o universo do desenvolvimento e apaixonado pelo <strong>front-end</strong><br><br>
+                            Atualmente tenho os seguintes conhecimentos técnicos: <br><br>
+                        </p>
+                    </div>
+                    <div display="inline">
+                        <img class="icon" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+                        <img class="icon" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+                        <img class="icon" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+                        <img class="icon" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+                      </div>
+                </div>
+            </section>
+            <section class="social">
+                <a href="index.html" target="_self"><img src="imagens/phone.png" alt="menu"></a><br>
+            </section>
+    </main>
+</body>
+</html>
